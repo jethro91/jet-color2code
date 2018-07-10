@@ -1,0 +1,1 @@
+nodemon --watch ./src --watch ./test  --exec npm run pp
